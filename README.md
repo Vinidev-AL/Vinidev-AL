@@ -1,4 +1,8 @@
-
+<style>
+  body{
+    background-color: #fff;
+  }
+</style>
 <h2 align="left" font-family="arial" color="#0988e8">Olá 👋! Sou Vinícius, um desenvolvedor em formação 🚀</h2>
 <h3 font-family="arial" color="#0988e8">Graduando em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.</h3>
 
